@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from "react";
 
 export default function Ff() {
-    const cardContainerRef = useRef(null);
+    const cardContainerRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         const cardContainer = cardContainerRef.current;
