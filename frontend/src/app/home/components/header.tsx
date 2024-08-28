@@ -3,6 +3,7 @@ import React from "react";
 
 const header = () => {
   return (
+    
     <div className="navbar bg-white text-black">
       <div className="flex-1">
         <a className="btn btn-ghost text-xl">Fiore</a>
@@ -64,6 +65,7 @@ const header = () => {
         </div>
       </div>
     </div>
+   
   );
 };
 
