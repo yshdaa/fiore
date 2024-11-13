@@ -59,7 +59,7 @@ const Sbc = () => {
                 <div className="flex flex-col items-center">
                     <div className="w-80 h-60 shadow-2xl rounded-lg overflow-hidden flex items-center justify-center transition-transform transform hover:scale-105 hover:shadow-3xl bg-white">
                         <img
-                            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+                            src="/images/rd.jpg"
                             alt="Date Flowers"
                             className="w-full h-full object-cover rounded-lg"
                         />
